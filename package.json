@@ -1,0 +1,15 @@
+{
+  "name": "@jaanjah/prettier-config",
+  "version": "1.0.0",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaanJah/prettier-config.git"
+  },
+  "author": "Jaan Jahilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JaanJah/prettier-config/issues"
+  },
+  "homepage": "https://github.com/JaanJah/prettier-config#readme"
+}
