@@ -1,6 +1,6 @@
 {
   "name": "@jaanjah/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": ".prettierrc.json",
   "repository": {
     "type": "git",
